@@ -15,8 +15,8 @@
 </p>
 
 ## 📊 My Github Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api/pin/?username=0x34c&theme=radical)
+<a href="https://github.com/0x34c"><img src="https://github-readme-stats.vercel.app/api?username=0x34c&show_icons=true&theme=radical"></a>
 
 ## 🚀 Favourite languages 🚀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x34c&layout=compact)
+<a href="https://github.com/0x34c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x34c&layout=compact"></a>
