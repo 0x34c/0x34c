@@ -19,4 +19,4 @@
 
 ## 🚀 Favourite languages 🚀
 
-<a href="https://github.com/0x34c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x34c"></a>
+<a href="https://github.com/0x34c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x34c&theme=radical"></a>
