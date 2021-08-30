@@ -5,6 +5,9 @@
 - I've got 2 nicknames - 0x34c & 0x034c 🙋‍♂️
 - I like coding 😎🤙
 
+## ✨Socials ✨
+- Discord : 0x34c#1181
+
 ## ✨Coding languages i use✨
 
 <p align="left">
