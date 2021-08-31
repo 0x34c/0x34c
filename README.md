@@ -19,6 +19,7 @@
 
 ## 📊 My Github Stats 📊
 <a href="https://github.com/0x34c"><img src="https://github-readme-stats.vercel.app/api?username=0x34c&show_icons=true&theme=radical"></a>
+<a href="https://www.codewars.com/users/0x34c"><img src="https://www.codewars.com/users/0x34c/badges/large"></a>
 
 ## 🚀 Favourite languages 🚀
 
