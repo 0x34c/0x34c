@@ -8,7 +8,7 @@
 ## ✨Socials ✨
 - Discord : 0x34c#1181
 
-## ✨Coding languages i use✨
+## ✨Coding languages I use✨
 
 <p align="left">
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
